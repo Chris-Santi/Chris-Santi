@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Christian Adike Banner" width="100%" />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Christian Adike
