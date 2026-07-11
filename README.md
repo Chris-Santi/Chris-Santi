@@ -1,114 +1,147 @@
-# Hi, I'm Christian Adike 👋
+<div align="center">
 
-### Front-End Developer | React Developer | Flutter Developer
+# 👋 Hi, I'm Christian Adike
 
-I'm a Front-End Developer passionate about building responsive, accessible and user-friendly web and mobile applications.
+### Software Engineer | Front-End Developer | React Developer | Flutter Developer
 
-My primary focus is developing modern web applications with **React, JavaScript, TypeScript, HTML and CSS**, while also building cross-platform mobile applications using **Flutter and Dart**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Front-End+Developer;React+Developer;Flutter+Developer;Building+Responsive+Web+%26+Mobile+Applications" alt="Typing SVG" />
 
-Beyond software development, I bring professional experience in higher education administration, customer service, digital marketing and stakeholder engagement, giving me a strong understanding of solving real-world business problems through technology.
-
----
-
-##  About Me
-
--  Front-End Developer specialising in React
--  Cross-platform Mobile Developer with Flutter
--  Passionate about clean UI and great user experiences
--  Continuously learning modern web technologies
--  Open to Front-End, React and Flutter Developer opportunities
+</div>
 
 ---
 
-##  Tech Stack
+## 🚀 About Me
 
-### Languages
+I'm a **Software Engineer** passionate about building modern, responsive web and mobile applications that deliver great user experiences.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I specialize in **React**, **TypeScript**, **JavaScript**, **Flutter**, and **Dart**, creating clean, scalable, and user-friendly applications.
 
-### Frameworks & Libraries
+Before transitioning into software engineering, I gained valuable experience in **higher education administration**, **student admissions**, **customer service**, and **digital marketing**. That experience strengthened my communication, teamwork, and problem-solving skills, which I now apply to building software that solves real-world problems.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+I'm committed to continuous learning and enjoy turning ideas into high-quality digital products.
+
+---
+
+# 💻 Tech Stack
+
+### Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
+</p>
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
 
 ---
 
-##  Featured Projects
+# 🚀 Featured Projects
 
-###  Weather App
-React • TypeScript • Vite
+## 🌦 Weather App
 
-A responsive weather application that fetches real-time weather information using a public API.
-
----
-
-###  Flutter E-Commerce App
-
-Flutter • Dart • REST API
-
-Cross-platform shopping application featuring product catalogue, cart functionality and responsive UI.
+Responsive weather application built with **React**, **TypeScript**, and **Vite**, featuring real-time weather information through API integration.
 
 ---
 
-###  Fruit Search App
+## 🛒 Flutter E-Commerce App
 
-React • TypeScript
-
-Fast and responsive fruit search application built with reusable React components.
+Cross-platform shopping application built with **Flutter** featuring product listings, shopping cart functionality, responsive UI, and REST API integration.
 
 ---
 
-###  Flashcard Quiz App
+## 🍎 Fruit Search App
 
-React • TypeScript
-
-Interactive quiz application designed to improve learning through flashcards.
+A fast and responsive React application for searching and filtering fruit data using reusable components.
 
 ---
 
-###  Watch Store UI
+## 🧠 Flashcard Quiz App
 
-Flutter
-
-Modern mobile shopping interface demonstrating responsive UI development.
+Interactive quiz application built with **React** and **TypeScript** to improve learning through digital flashcards.
 
 ---
 
-##  Currently Learning
+## ⌚ Watch Store UI
 
-
-- Software Engineering Best Practices
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris-Santi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Santi&layout=compact&theme=tokyonight)
+Modern Flutter application showcasing clean UI, reusable widgets, and responsive layouts.
 
 ---
 
-##  Let's Connect
+# 🌱 Currently Learning
 
-🌐 Portfolio  
+- Advanced React
+- TypeScript Best Practices
+- Next.js
+- Front-End Architecture
+- Software Engineering Principles
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chris-Santi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Santi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chris-Santi&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chris-Santi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+🌐 **Portfolio**
+
 https://adike-christian-portfolio.webflow.io/
 
-💼 LinkedIn  
+💼 **LinkedIn**
+
 https://linkedin.com/in/christian-adike-99709b321
 
-📧 Email  
+🐙 **GitHub**
+
+https://github.com/Chris-Santi
+
+📧 **Email**
+
 adikechristian.z@gmail.com
 
-⭐ Thanks for visiting my profile!
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that makes a difference, one project at a time."*
+
+</div>
