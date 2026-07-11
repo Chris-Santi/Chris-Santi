@@ -93,9 +93,13 @@ Modern Flutter application showcasing clean UI, reusable widgets, and responsive
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chris-Santi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Chris-Santi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Santi&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Chris-Santi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
