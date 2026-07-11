@@ -85,14 +85,14 @@ Modern mobile shopping interface demonstrating responsive UI development.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 
 - Software Engineering Best Practices
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris-Santi&show_icons=true&theme=tokyonight)
 
@@ -100,7 +100,7 @@ Modern mobile shopping interface demonstrating responsive UI development.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 🌐 Portfolio  
 https://adike-christian-portfolio.webflow.io/
